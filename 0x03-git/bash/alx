@@ -1,16 +1,5 @@
- HEAD
-#!/bin/bash		
- HEAD
-echo "ALX School"
 
-=======
-echo "ALX School"
- update_script
-=======
-#!/bin/bash
-<<<<<<< HEAD
-echo "ALX"
-=======
+#!/bin/bash		
 echo "ALX School"
 >>>>>>> update_script
 >>>>>>> origin/master
